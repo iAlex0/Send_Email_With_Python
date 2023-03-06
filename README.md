@@ -8,9 +8,9 @@ This is script that allows you to send a HTML email, attachments to a list of em
 
 Add:
 
-EMAIL_USER={ENTER your email here}
+EMAIL_USER={Enter your email here}
 
-EMAIL_PASS={Enter your email App password here}
+EMAIL_PASS={Enter your email 'App-Password' here}
 
 #
 2: Install the dependencies:
